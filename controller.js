@@ -1,1 +1,1 @@
-alert('successfully');
+alert('success');
