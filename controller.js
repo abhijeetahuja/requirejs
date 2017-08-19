@@ -1,1 +1,1 @@
-alert('successfully injected');
+alert('successfully');
